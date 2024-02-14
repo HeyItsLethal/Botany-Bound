@@ -22,3 +22,23 @@ wp.blocks.registerBlockStyle( 'core/details', {
     name: 'botany-details',
     label: 'Botany Details',
 } );
+
+wp.blocks.registerBlockStyle( 'core/pullquote', {
+    name: 'botany-pullquote',
+    label: 'Botany Pullquote',
+} );
+
+wp.blocks.registerBlockStyle( 'core/table', {
+    name: 'botany-table',
+    label: 'Botany Table',
+} );
+
+wp.blocks.registerBlockStyle( 'core/verse', {
+    name: 'botany-verse',
+    label: 'Botany Verse',
+} );
+
+wp.blocks.registerBlockStyle( 'core/footnotes', {
+    name: 'botany-footnotes',
+    label: 'Botany Footnotes',
+} );
