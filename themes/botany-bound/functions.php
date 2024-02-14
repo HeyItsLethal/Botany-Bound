@@ -15,12 +15,12 @@
  *
  * @return void
  */
-function botany_bound_styles() {
+function botany_bound_wp_enqueue_scripts() {
 	wp_enqueue_style(
-		'botany-bound-style',
+		'botany-bound',
 		get_stylesheet_uri(),
 		[],
 		wp_get_theme()->get( 'Version' )
 	);
 }
-add_action( 'wp_enqueue_scripts', 'botany_bound_styles' );
+add_action( 'wp_enqueue_scripts', 'botany_bound_wp_enqueue_scripts' );

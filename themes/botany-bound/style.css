@@ -30,3 +30,19 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 }
+
+.is-style-botany-paragraph {
+	color: #696969;
+}
+
+.is-style-botany-heading {
+	color: #696969;
+}
+
+.is-style-botany-quote {
+	color: #696969;
+}
+
+.is-style-botany-code {
+	color: #696969;
+}
