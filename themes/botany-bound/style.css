@@ -44,6 +44,10 @@ body {
 	color: #696969;
 }
 
+.is-style-botany-quote cite{
+	color: #696969;
+}
+
 .is-style-botany-code {
 	color: #696969;
 }
@@ -60,10 +64,18 @@ body {
 	color: #696969;
 }
 
+.is-style-botany-table tbody,.is-style-botany-table td{
+	border: 2px solid #a3d39c;
+}
+
 .is-style-botany-verse {
 	color: #696969;
 }
 
 .is-style-botany-footnotes {
 	color: #696969;
+}
+
+a {
+	text-decoration: none;
 }
