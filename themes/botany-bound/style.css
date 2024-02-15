@@ -37,6 +37,7 @@ body {
 
 .is-style-botany-heading {
 	color: #696969;
+	font-size: 60px;
 }
 
 .is-style-botany-quote {
@@ -44,5 +45,25 @@ body {
 }
 
 .is-style-botany-code {
+	color: #696969;
+}
+
+.is-style-botany-details {
+	color: #696969;
+}
+
+.is-style-botany-pullquote {
+	color: #696969;
+}
+
+.is-style-botany-table {
+	color: #696969;
+}
+
+.is-style-botany-verse {
+	color: #696969;
+}
+
+.is-style-botany-footnotes {
 	color: #696969;
 }
