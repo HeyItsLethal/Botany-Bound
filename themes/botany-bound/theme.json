@@ -42,18 +42,6 @@
 					"gradient": "linear-gradient(#fff 49.9%,#a3d39c 50%)",
 					"name": "Horizontal white to Primary color"
 				}
-			],
-			"duotone": [
-				{
-					"colors": [ "#82c379", "#a3d39c"],
-					"slug": "secondary-primary",
-					"name": "Secondary and primary"
-				},
-				{
-					"colors": ["#a3d39c", "#696969"],
-					"slug": "primary-contrast",
-					"name": "Primary and Contrast"
-				}
 			]
 		},
 		"layout": {
