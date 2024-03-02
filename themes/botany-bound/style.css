@@ -79,3 +79,13 @@ body {
 a {
 	text-decoration: none;
 }
+
+.woocommerce.wc-block-catalog-sorting select.orderby {
+	background-color: white;
+	border: 2px solid var(--wp--preset--color--primary) !important;
+	border-radius: 12px;
+}
+
+.wc-block-components-button:not(.is-link) .wc-block-components-button__text {
+	color: white;
+}
