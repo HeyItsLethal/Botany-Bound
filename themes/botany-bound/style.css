@@ -89,3 +89,12 @@ a {
 .wc-block-components-button:not(.is-link) .wc-block-components-button__text {
 	color: white;
 }
+
+.formButton {
+	background-color: var(--wp--preset--color--primary) !important;
+}
+
+button {
+	background-color: var(--wp--preset--color--primary) !important;
+	color: white !important;
+}
