@@ -120,3 +120,11 @@ div.wpforms-container-full .wpforms-field-label {
 .wc-block-components-notice-banner.is-info > svg {
 	background-color: var(--wp--preset--color--primary);
 }
+
+.wc-block-components-notice-banner > .wc-block-components-notice-banner__content .wc-forward {
+	border: 2px solid var(--wp--preset--color--primary);
+	border-radius: 13px;
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+	text-decoration: none;
+}
