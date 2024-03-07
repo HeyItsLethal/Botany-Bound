@@ -132,3 +132,11 @@ div.wpforms-container-full .wpforms-field-label {
 .woocommerce span.onsale {
 	background-color: var(--wp--preset--color--primary);
 }
+
+.wc-block-components-product-sale-badge span {
+	color: var(--wp--preset--color--contrast);
+}
+
+.wc-block-grid .wc-block-grid__product-onsale, .wc-block-grid__product-image .wc-block-grid__product-onsale {
+	border-color: var(--wp--preset--color--primary);
+}
