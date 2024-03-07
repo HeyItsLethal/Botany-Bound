@@ -128,3 +128,7 @@ div.wpforms-container-full .wpforms-field-label {
 	padding-right: 5px !important;
 	text-decoration: none;
 }
+
+.woocommerce span.onsale {
+	background-color: var(--wp--preset--color--primary);
+}
