@@ -98,3 +98,11 @@ button {
 	background-color: var(--wp--preset--color--primary) !important;
 	color: white !important;
 }
+
+.attachment-woocommerce_single {
+	border-radius: 20px;
+}
+
+div.wpforms-container-full .wpforms-field-label {
+	color: var(--wp--preset--color--contrast);
+}
