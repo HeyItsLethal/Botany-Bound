@@ -111,3 +111,12 @@ div.wpforms-container-full .wpforms-field-label {
 	color: var(--wp--preset--color--primary);
 	text-decoration: none;
 }
+
+.wc-block-components-notice-banner.is-info {
+	background-color: white;
+	border: 2px solid var(--wp--preset--color--primary);
+}
+
+.wc-block-components-notice-banner.is-info > svg {
+	background-color: var(--wp--preset--color--primary);
+}
