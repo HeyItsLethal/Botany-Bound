@@ -31,54 +31,80 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
+/* * Body paragraph color */
+
 .is-style-botany-paragraph {
 	color: #696969;
 }
+
+/* * Heading color and size */
 
 .is-style-botany-heading {
 	color: #696969;
 	font-size: 60px;
 }
 
+/* * Quote Color */
+
 .is-style-botany-quote {
 	color: #696969;
 }
+
+/* * Cite on the quote color */
 
 .is-style-botany-quote cite{
 	color: #696969;
 }
 
+/* * Code block color */
+
 .is-style-botany-code {
 	color: #696969;
 }
+
+/* * Details block color */
 
 .is-style-botany-details {
 	color: #696969;
 }
 
+/* * Pullquote color */
+
 .is-style-botany-pullquote {
 	color: #696969;
 }
+
+/* * Table text color */
 
 .is-style-botany-table {
 	color: #696969;
 }
 
+/* * Table border color */
+
 .is-style-botany-table tbody,.is-style-botany-table td{
 	border: 2px solid #a3d39c;
 }
+
+/* * Verse color */
 
 .is-style-botany-verse {
 	color: #696969;
 }
 
+/* * Footnotes color */
+
 .is-style-botany-footnotes {
 	color: #696969;
 }
 
+/* * Got rid of a tag underlines */
+
 a {
 	text-decoration: none;
 }
+
+
 
 .woocommerce.wc-block-catalog-sorting select.orderby {
 	background-color: white;
