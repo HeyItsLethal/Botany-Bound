@@ -44,31 +44,31 @@ body {
 	font-size: 60px;
 }
 
-/* * Quote Color */
+/* * Quote Text Color */
 
 .is-style-botany-quote {
 	color: #696969;
 }
 
-/* * Cite on the quote color */
+/* * Citation on the quote text color */
 
 .is-style-botany-quote cite{
 	color: #696969;
 }
 
-/* * Code block color */
+/* * Code block text color */
 
 .is-style-botany-code {
 	color: #696969;
 }
 
-/* * Details block color */
+/* * Details block text color */
 
 .is-style-botany-details {
 	color: #696969;
 }
 
-/* * Pullquote color */
+/* * Pullquote text color */
 
 .is-style-botany-pullquote {
 	color: #696969;
@@ -86,13 +86,13 @@ body {
 	border: 2px solid #a3d39c;
 }
 
-/* * Verse color */
+/* * Verse text color */
 
 .is-style-botany-verse {
 	color: #696969;
 }
 
-/* * Footnotes color */
+/* * Footnotes text color */
 
 .is-style-botany-footnotes {
 	color: #696969;
@@ -104,7 +104,7 @@ a {
 	text-decoration: none;
 }
 
-/* * Changed colors on order by in products page */
+/* * Changed background color and text color on order by in products page */
 
 .woocommerce.wc-block-catalog-sorting select.orderby {
 	background-color: white;
@@ -146,14 +146,14 @@ div.wpforms-container-full .wpforms-field-label {
 	text-decoration: none;
 }
 
-/* * Changed Banner color to fit theme */
+/* * Changed Banner background color and border to fit theme */
 
 .wc-block-components-notice-banner.is-info {
 	background-color: white;
 	border: 2px solid var(--wp--preset--color--primary);
 }
 
-/* * Changed the color on the info img to fit theme */
+/* * Changed the background color on the info img to fit theme */
 
 .wc-block-components-notice-banner.is-info > svg {
 	background-color: var(--wp--preset--color--primary);
