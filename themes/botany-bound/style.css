@@ -104,7 +104,7 @@ a {
 	text-decoration: none;
 }
 
-
+/* * Changed colors on order by in products page */
 
 .woocommerce.wc-block-catalog-sorting select.orderby {
 	background-color: white;
@@ -116,6 +116,8 @@ a {
 	color: white;
 }
 
+/* * Changed the color on all buttons to fit the theme */
+
 .formButton {
 	background-color: var(--wp--preset--color--primary) !important;
 }
@@ -125,13 +127,19 @@ button {
 	color: white !important;
 }
 
+/* * Changed the border radius */
+
 .attachment-woocommerce_single {
 	border-radius: 20px;
 }
 
+/* * Changed color on lable field */
+
 div.wpforms-container-full .wpforms-field-label {
 	color: var(--wp--preset--color--contrast);
 }
+
+/* * Changed color and got rid of text decoration */
 
 .woocommerce-MyAccount-navigation a:hover {
 	color: var(--wp--preset--color--primary);
