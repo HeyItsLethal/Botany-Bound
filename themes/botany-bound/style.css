@@ -159,7 +159,7 @@ div.wpforms-container-full .wpforms-field-label {
 	background-color: var(--wp--preset--color--primary);
 }
 
-
+/* * Added lots of changed to the banner to make it fit the theme and look good */
 
 .wc-block-components-notice-banner > .wc-block-components-notice-banner__content .wc-forward {
 	border: 2px solid var(--wp--preset--color--primary);
@@ -175,9 +175,13 @@ div.wpforms-container-full .wpforms-field-label {
 	background-color: var(--wp--preset--color--primary);
 }
 
+/* * Changed the text color on the sale to fit theme */
+
 .wc-block-components-product-sale-badge span {
 	color: var(--wp--preset--color--contrast);
 }
+
+/* * Changed image border to fit theme colors */
 
 .wc-block-grid .wc-block-grid__product-onsale, .wc-block-grid__product-image .wc-block-grid__product-onsale {
 	border-color: var(--wp--preset--color--primary);
