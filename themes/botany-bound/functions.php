@@ -24,19 +24,3 @@ function botany_bound_wp_enqueue_scripts() {
 	);
 }
 add_action( 'wp_enqueue_scripts', 'botany_bound_wp_enqueue_scripts' );
-
-$args = array(
-    'post_type'      => 'botany_bound_post',
-    'posts_per_page' => 2,
-    'orderby'        => 'date',
-    'order'          => 'DESC',
-);
-
-$query = new WP_Query( $args );
-
-if ( $query->have_posts() ) {
-    while ( $query->have_posts() ) {
-        $query->the_post();
-    }
-    wp_reset_postdata();
-}

@@ -146,14 +146,20 @@ div.wpforms-container-full .wpforms-field-label {
 	text-decoration: none;
 }
 
+/* * Changed Banner color to fit theme */
+
 .wc-block-components-notice-banner.is-info {
 	background-color: white;
 	border: 2px solid var(--wp--preset--color--primary);
 }
 
+/* * Changed the color on the info img to fit theme */
+
 .wc-block-components-notice-banner.is-info > svg {
 	background-color: var(--wp--preset--color--primary);
 }
+
+
 
 .wc-block-components-notice-banner > .wc-block-components-notice-banner__content .wc-forward {
 	border: 2px solid var(--wp--preset--color--primary);
@@ -162,6 +168,8 @@ div.wpforms-container-full .wpforms-field-label {
 	padding-right: 5px !important;
 	text-decoration: none;
 }
+
+/* * Changed the color on the on sale image to fit theme */
 
 .woocommerce span.onsale {
 	background-color: var(--wp--preset--color--primary);
