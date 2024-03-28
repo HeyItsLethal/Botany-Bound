@@ -186,3 +186,19 @@ div.wpforms-container-full .wpforms-field-label {
 .wc-block-grid .wc-block-grid__product-onsale, .wc-block-grid__product-image .wc-block-grid__product-onsale {
 	border-color: var(--wp--preset--color--primary);
 }
+
+/* * Made text color change on view more hover */
+
+.wp-block-post-excerpt__more-link:hover {
+	color: var(--wp--preset--color--primary);
+}
+
+/* * Added border colors to form to fit theme */
+
+.wpforms-field-name-last, .wpforms-field-name-first {
+	border: 1px solid var(--wp--preset--color--primary) !important;
+}
+
+.wpforms-field-medium.wpforms-field-required {
+	border: 1px solid var(--wp--preset--color--primary) !important;
+}
